@@ -12,9 +12,11 @@ Ascii Art 4.4 - https://pypi.org/project/art/
 
 Python-Wars-Solo - https://pypi.org/project/python-wars-solo/ 
 
-### Required
-Python 3.4 or newer
+### Requirements
+Python 3.x
+
 Pip
+
 Pipenv
 
 ### How to Install and Run from Source Code
