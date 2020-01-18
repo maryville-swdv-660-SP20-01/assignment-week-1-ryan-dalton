@@ -12,8 +12,16 @@ Ascii Art 4.4 - https://pypi.org/project/art/
 
 Python-Wars-Solo - https://pypi.org/project/python-wars-solo/ 
 
-### How to Install
-Simply download the repository and launch the main.py file with your python interpreter.
+### Required
+Python 3.4 or newer
+Pip
+Pipenv
+
+### How to Install and Run from Source Code
+1. Download repository and unzip into target directory
+2. Navigate to directory in command line
+3. Use the command `pipenv install`
+4. To start the program use the ocmmand `pipenv run .\main.py`
 
 ### Overview
 This program operates in two parts:
