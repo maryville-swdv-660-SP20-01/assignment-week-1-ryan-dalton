@@ -8,7 +8,8 @@ Hello Commander <Your Name Here> - Would you like to play Python Wars?
 This is a very simple hello world project combined with a text-based adventure game using two different packages found on pypi.org.
 
 ### Python Packages Used
-Ascii Art 4.4 - https://pypi.org/project/art/
+Ascii Art 4.4 - https://pypi.org/project/art/ 
+
 Python-Wars-Solo - https://pypi.org/project/python-wars-solo/ 
 
 ### How to Install
